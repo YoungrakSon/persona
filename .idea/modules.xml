@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../instagramPC/.idea/instagramPC.iml" filepath="$PROJECT_DIR$/../instagramPC/.idea/instagramPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/자기소개카드.iml" filepath="$PROJECT_DIR$/.idea/자기소개카드.iml" />
+    </modules>
+  </component>
+</project>
